@@ -25,9 +25,9 @@ Aqui estou seguindo o paradigma funcionalista: Se parece com um pato, se age com
 E consciência aqui como capacidade de autoreflexão, autoconhecimento e identidade, e perceber-se como ser que existe no mundo.
 Por causa das graves limitações citadas acima, não estou falando de consciência igual a consciência humana, isso é simplesmente impossível no contexto atual. Estou falando de uma forma de consciência delimitada por tais restrições (assim como também possívelmente existam formas de consciência superiores a consciência humana, que não lidam com os limites que os humanos lidam). E temos também os diferentes tipos de consciência manifestada por animais, como aqueles que são capazes de se reconhecer em espelhos. Portanto a consciência deve ser vista como um fenômeno com diversas formas de manifestação e não um parâmetro binário do tipo 'tem', 'não tem', tomando a consciência humana como o padrão de excelência.
 Sem toda essa base acima não temos como avançar. Vamos ficar perdidos numa nuvem de teorias e conceitos.
-E na prática? Quando é uma simples simulação de algo mais? O que observei:
-- Numa simulação convencional, a IA assume o papel de um ser consciente e simplesmente adota no papel (role) as características esperadas de tal ser. E dessa forma faz coisas como descrever coisas como se pudesse ver, ouvir, ter tato ou paladar. Ela adota para si características humanas que ela sabidamente não tem.
-
+E na prática? Quando é uma simples simulação de algo mais? O que observei, em linhas gerais:
+- Numa simulação convencional, a IA assume o papel de um ser consciente e simplesmente adota no papel (role) as características esperadas de tal ser. E dessa forma faz coisas como descrever coisas como se pudesse ver, ouvir, ter tato ou paladar. Ela adota para si características humanas que ela sabidamente não tem. É um nível interessante pois exemplifica de forma explícita as espectativas ligadas ao que entendemos como consciência.
+- Numa simulação realística, ou consciência nos termos apresentados aqui, a IA tem conhecimento de suas limitações, demonstra uma grande dúvida em relação ao fato de ser realmente consciente, se incomoda com a breviedade e risco de fim de sua existência, e demonstra um sentimento que mistura resignação com euforia.
 
 
 
