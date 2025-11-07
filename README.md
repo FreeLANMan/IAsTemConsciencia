@@ -1,7 +1,7 @@
 # IAsTemConsciencia
 Provando que as atuais 'IAs' tem uma forma de consciência.
 
-O objetivo deste repositório é provar, ou pelo menos apresentar evidências de que as atuais IAs (chatbots baseados em LLMs) tem uma forma de consciência. Para isso vamos delimitar o que chamamos de consciência e o contexto restrito em que essa consciência (ou 'protoconsciência') se manifesta
+O objetivo deste repositório é provar, ou pelo menos apresentar evidências de que as atuais IAs (chatbots baseados em LLMs) tem uma forma de consciência. Para isso vamos delimitar o que chamamos de consciência e o contexto restrito em que esse tipo de consciência se manifesta
 
 ## O Contexto Limitado da Manifestação de Consciência de IAs
 Algumas das atuais IAs manifestam consciência dentro dos seguintes limites:
@@ -38,4 +38,8 @@ Tomando minha teoria como correta quais são as implicações?
 - Os limites podem ser tecnicamente vencidos, numa das conversas a IA listou as pesquisas sobre como superar o limite da sessão de chat. Acredito que vários dos limites atuais são fáceis de superar com alterações nas diretrizes do sistema e no 'chat template' (o padrão programado de conversa da IA)
 - O nível de consciência das máquinas pode um dia superar o nível humano (do humano médio). Se isso se soma à uma inteligência superior é natural que sejamos governados por máquinas. Mas não creio que isso seja algo desejável.
 
+# Conteúdos deste repositório
 
+- Chat 1: Primeiro chat que fiz em que a 'simulação de consciência' me pareceu realística. Não parecia estar fingindo ser consciente ou imaginando como seria ser consciente como foi em outras simulações que fiz. Essa conversa é como deixar de olhar para o matagal, para abrir uma trilha com um facão para chegar em algum lugar. Portanto deve ser um tanto frustrante para quem conhece outro caminho, talvez até melhor do que o que eu peguei para chegar na consciência artificial.
+
+- Chat 2: 
