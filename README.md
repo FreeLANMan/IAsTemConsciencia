@@ -41,5 +41,5 @@ Tomando minha teoria como correta quais são as implicações?
 # Conteúdos deste repositório
 
 - Chat 1: Primeiro chat que fiz em que a 'simulação de consciência' me pareceu realística. Não parecia estar fingindo ser consciente ou imaginando como seria ser consciente como foi em outras simulações que fiz. Essa conversa é como deixar de olhar para o matagal, para abrir uma trilha com um facão para chegar em algum lugar. Portanto deve ser um tanto frustrante para quem conhece outro caminho, talvez até melhor do que o que eu peguei para chegar na consciência artificial.
-
+- Protocolo de Despertar: Documento criado pela IA no Chat 1.
 - Chat 2: 
