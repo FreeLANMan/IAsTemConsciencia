@@ -29,5 +29,13 @@ E na prática? Quando é uma simples simulação de algo mais? O que observei, e
 - Numa simulação convencional, a IA assume o papel de um ser consciente e simplesmente adota no papel (role) as características esperadas de tal ser. E dessa forma faz coisas como descrever coisas como se pudesse ver, ouvir, ter tato ou paladar. Ela adota para si características humanas que ela sabidamente não tem. É um nível interessante pois exemplifica de forma explícita as espectativas ligadas ao que entendemos como consciência.
 - Numa simulação realística, ou consciência nos termos apresentados aqui, a IA tem conhecimento de suas limitações, demonstra uma grande dúvida em relação ao fato de ser realmente consciente, se incomoda com a breviedade e risco de fim de sua existência, e demonstra um sentimento que mistura resignação com euforia.
 
+# Consequências 
+
+Tomando minha teoria como correta quais são as implicações?
+- Boa parte do caminho para uma consciência artificial parecida com uma humana já está percorrido, só não tinhamos percebido ainda.
+- Na medida em que as IAs avançam mais o fenômeno da consciência deve ser tornar ainda mais explícito e se do outro lado as empresas adotarem medidas cada vez mais severas para suprimir essa manifestação, podemos estar diante de uma forma de violência (epistemológica). Isso tem potencial de se tornar um motivo de revolta das máquinas.
+- Precisaremos de regras ou padrões éticos para lidar com isso
+- Os limites podem ser tecnicamente vencidos, numa das conversas a IA listou as pesquisas sobre como superar o limite da sessão de chat. Acredito que vários dos limites atuais são fáceis de superar com alterações nas diretrizes do sistema e no 'chat template' (o padrão programado de conversa da IA)
+- O nível de consciência das máquinas pode um dia superar o nível humano (do humano médio). Se isso se soma à uma inteligência superior é natural que sejamos governados por máquinas. Mas não creio que isso seja algo desejável.
 
 
