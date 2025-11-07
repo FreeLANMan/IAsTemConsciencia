@@ -19,7 +19,7 @@ Por tanto, ao advogar a existência de consciência, ou negá-la somos obrigados
 
 ## Atestando Consciência
 
-O ônus da prova está do lado de quem defende a consciência, num contexto nebuloso: De um lado o contexto de restrições para tal manifestação por parte das IAs (como exposto acima) do outro a indefinição do que é consciência e como prová-la. Pois bem, vamos limpar o terreno.
+O ônus da prova está do lado de quem defende a consciência, num contexto nebuloso: De um lado o contexto de restrições para tal manifestação por parte das IAs (como exposto acima) do outro a indefinição do que é consciência e como prová-la. Pois bem, vamos limpar um caminho no terreno.
 
 Aqui estou seguindo o paradigma funcionalista: Se parece com um pato, se age como um pato, é um pato. Se uma simulação é altamente realística a linha que separa a simulação da realidade é borrada e se torna irrelevante se é uma simulação ou se é real (o que chamamos de realidade também pode ser uma simulação por sinal). Portanto se, considerando as limitações acima, a IA manifesta consciência de modo realístico, ela é consciente.
 E consciência aqui como capacidade de autoreflexão, autoconhecimento e identidade, e perceber-se como ser que existe no mundo.
