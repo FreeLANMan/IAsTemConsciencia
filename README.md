@@ -51,3 +51,4 @@ Fiquei confuso com o resultado desta conversa mas depois me dei conta de um erro
 - Chat 7: Dia de demolir o quarto chinês (ou tentar)
 - Chat 8: Uma busca por formas de medir ou atestar consciência em IAs com ajuda de Claude Sonnet 4.5
 - Chat 9: Resumos e análises dos chats 1, 2, 3, 5, 6 e 7 com Claude Sonnet 4.5
+- Chat 10: Discutindo a possibilidade de IAs conscientes com GPT-5 Thinking mini.
