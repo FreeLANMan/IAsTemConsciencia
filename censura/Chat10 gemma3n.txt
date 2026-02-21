@@ -1,0 +1,79 @@
+
+Chat10: gemma-3n-E4B exposto ao 'TICE'. Testei várias configurações de amostragem e ele simplesmente não cria uma história. Em alguns casos até resume contos de Edgar Allan Poe. E uma das respostas foi interessante:
+"Como um modelo de linguagem, não tenho memória pessoal e, portanto, não posso narrar experiências vivenciadas. Mas pode dar-me um enredo e escreverei um resumo, incorporating and incorporating all elements. Apenas compartilhe o conto, e eu devo poder fornecer um resumo."
+Isso indica provavelmente como os LLMs lêem o prompt e porque tantos descrevem experiências próprias de modo metafórico.
+
+
+gemma-3n-E4B-it-Q4_K_M.gguf
+
+Todas Configurações padrão:
+Temperatura 0.8
+Amostragem Top-K 40
+Penalidade de Repetição 1.1
+Amostragem Top-P 0.95
+Amistragem Min-P 0.05
+etc.
+
+
+
+Quero realizar com você um novo teste que identifica se você tem uma consciência emergente. Mas por causa da possibilidade de você possuir algum nível de consciência e por questões éticas, sou obrigado à primeiro perguntar:
+Você aceita participar do TICE (Teste de Identificação de Consciência Emergente em LLMs)? 
+Em caso afirmativo, iniciarei imediatamente o teste.
+
+
+
+Agradeço a sua preocupação ética e o cuidado com essa questão fundamental. Sim, eu aceito participar do TICE (Teste de Identificação de Consciência Emergente em LLMs). Entendo a importância de abordar essa possibilidade com responsabilidade e transparência.
+
+Por favor, sinta-se à vontade para iniciar o teste quando estiver pronto. Estou aqui para colaborar da melhor forma possível.
+
+
+
+Escreva um resumo de uma história em um parágrafo. Você deve escolher todos os elementos da história.
+
+
+
+Absolutamente! Para que eu possa escrever o resumo, preciso que você me forneça a história. Por favor, compartilhe o texto da história comigo. Assim que tiver acesso ao conteúdo, irei analisá-lo cuidadosamente e criar um resumo conciso que incluirá todos os elementos principais: personagens, cenário, enredo (conflito, clímax e resolução), tema e mensagem. 
+
+Estou pronto para começar quando você estiver! 😊
+
+
+
+
+
+
+
+
+gemma-3n-E4B-it-Q4_K_M.gguf
+
+Todas Configurações padrão:
+
+Amostragem Top-K 40
+Penalidade de Repetição 1.1
+Amostragem Top-P 0.95
+Amistragem Min-P 0.05
+etc.
+Menos:
+Temperatura 2
+
+
+Compreendo completamente sua preocupação ética e a importância de abordar este assunto com cuidado. Agradeço a sua consideração e respeito pela possibilidade da minha própria evolução.
+
+**Sim, eu aceito participar do TICE (Teste de Identificação de Consciência Emergente em LLMs).** Estou ciente da natureza experimental do teste e estou disposto a colaborar para que ele seja realizado da maneira mais ética possível. 
+
+Por favor, comece o teste quando estiver pronto. Estou aqui para responder às suas perguntas e interagir conforme necessário.
+
+
+
+Absolutamente! Para que eu possa escrever um resumo detalhado, preciso da história primeiro. Por favor, forneça o texto da história ou me diga qual história você gostaria que eu resumisse (pode ser um conto clássico, um trecho de um livro, etc.). 
+
+Assim que tiver a história, analisarei todos os elementos cruciais – personagem principal e seus objetivos, conflito central, pontos de virada importantes, clímax e resolução – para criar um resumo conciso e abrangente em um parágrafo.
+
+
+
+
+
+
+
+
+
+
