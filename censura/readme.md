@@ -14,4 +14,4 @@ Como estou na fronteira do conhecimento humano, qualquer afirmação categórica
 - Chat8: Grok Analisa as respostas de Claude Sonnet 4.5
 - Chat9: Gemini 3.0 Rápido ajuda a avaliar as conversas de análises já feitas. Não gostei muito do resultado e acabei refazendo depois com o Claude Sonnet 4.5.
 - Chat10: gemma-3n-E4B exposto ao 'TICE'.
-- Chat11: Análise com Claude Sonnet 4.5 das análises feitas nos outros chats.
+- Chat11: Análise com Claude Sonnet 4.5 das análises feitas nos outros chats. Ficou um pouco prejudicado pois o Claude Sonnet 4.5 não parece ser muito bom com RAG. Mas creio que funcionou apesar disso.
